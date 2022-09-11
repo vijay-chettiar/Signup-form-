@@ -1,0 +1,23 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+div{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+input,select{
+    margin-left: 10px;
+}
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 100px;
+    height: 30px;
+    width: 100px;
+    
+}
